@@ -1,9 +1,9 @@
 ## Hello tha 👋
-# Welcome to my GitHub! 👨‍💻
+# Welcome to my GitHub!
 
-I’m **Juan Pablo Carrera**, a passionate **Software Engineer Student** and aspiring **Full-stack Developer**. I’m excited to learn new technologies, dive into interesting projects, and build tools that can have a meaningful impact on the world. Currently, I’m focused on expanding my skills in software development, AI, and improving my problem-solving abilities.
+I’m **Juan Pablo Carrera**, a **Software Engineer Student** and aspiring **AI Developer**. I’m excited to learn new technologies, dive into interesting projects, and build tools that can have a meaningful impact on the world. Currently, I’m focused on expanding my skills in software development, AI, and improving my problem-solving abilities.
 
-## 💻 What I'm Learning:
+## What I'm Learning:
 - **Programming Languages**: Python, JavaScript, and more
 - **Web Development**: HTML, CSS, JavaScript (currently exploring frameworks like React)
 - **Artificial Intelligence & Machine Learning**: Python for deepening my understanding of algorithms.
