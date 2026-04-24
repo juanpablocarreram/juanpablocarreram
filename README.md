@@ -1,41 +1,16 @@
-## Welcome to my GitHub!👋
+Computer Science student with a focus on building strong foundations in software engineering, algorithms, and system design. My work emphasizes understanding how components interact at scale, rather than limiting development to a single domain prematurely.
 
-I’m **Juan Pablo Carrera**, a **Robotics Engineering student** and aspiring **AI Developer**. I’m excited to learn new technologies, dive into interesting projects, and build tools that can have a meaningful impact on the world. Currently, I’m focused on expanding my skills in software development, AI, electronics and improving my problem-solving abilities.
+I approach software development from a structural perspective: how systems are designed, how data flows, and how performance and maintainability are affected by design decisions.
 
-## What I'm Learning:
-- **Programming Languages**: Python,C++, JavaScript, and more
-- **Web Development**: HTML, CSS, JavaScript (currently exploring frameworks like React)
-- **Artificial Intelligence & Machine Learning**: Python for deepening my understanding of algorithms.
-- **Software and Robotics Engineering**: Working towards becoming a well-rounded robotics-software engineer, from front-end to back-end.
+Technical Focus:
+  Algorithms and Data Structures
+  Software Design and Architecture
+  Full-Stack Development
+  Data-Oriented Systems
 
-## 🔧 Tools I Use:
-- **Linux Mint Terminal** for coding and learning.
-- **MySQL** for handling databases.
-
-## 🌱 I'm Focused On:
-- Learning how to implement AI and Machine Learning in real world impacting solutions.
-- Mastering full-stack development, with a focus on back-end and Robotics technologies.
-- Improving my problem-solving skills and mental agility.
-
-## 🌟 My Goals:
-- Build a strong foundation in **Software Engineering**.
-- Launch my first **Robotics Projects**.
-- Keep challenging myself with projects that push my limits and foster creativity.
-- Use programming to solve real-world problems and make life easier for others.
-
-## 🤝 Let's Connect!
-I’m open to collaboration, learning, and sharing knowledge. Drop me a message if you want to chat about Robotics, programming, AI, or any other tech-related topics.
-<!--
-**juanpablocarreram/juanpablocarreram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies:
+  Languages: Python, C++, JavaScript
+  Frontend: React, Tailwind CSS
+  Backend: Node.js
+  Databases: SQL
+  Tools: Git, Linux
