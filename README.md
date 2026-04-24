@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/RickCloningTube.png" width="800"/>
+</p>
 
 # Computer Science Student
 
