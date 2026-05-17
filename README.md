@@ -14,10 +14,10 @@ I approach software development from a structural perspective: how systems are d
 ---
 
 ## Technical Focus
-- Algorithms and Data Structures  
 - Software Design and Architecture  
 - Full-Stack Development  
-- Data-Oriented Systems  
+- Data-Oriented Systems
+- Algorithms and Data Structures    
 
 ---
 
@@ -30,10 +30,10 @@ Python · C++ · JavaScript
 React · Tailwind CSS  
 
 **Backend**  
-Node.js  
+Node.js  · FastAPI
 
 **Databases**  
-SQL  
+MySQL  
 
 **Tools**  
 Git · Linux  
