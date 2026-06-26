@@ -17,14 +17,16 @@ I approach software development from a structural perspective: how systems are d
 - Software Design and Architecture  
 - Full-Stack Development  
 - Data-Oriented Systems
-- Algorithms and Data Structures    
+- Algorithms and Data Structures
+- Cloud Infrastructure
+- Devops Philosophy   
 
 ---
 
 ## Technologies
 
 **Languages**  
-Python · C++ · JavaScript  
+Python · C++ · TypeScript  
 
 **Frontend**  
 React · Tailwind CSS  
@@ -33,7 +35,7 @@ React · Tailwind CSS
 Node.js  · FastAPI
 
 **Databases**  
-MySQL  
+MySQL · PostgreSQL
 
 **Tools**  
 Git · Linux  
